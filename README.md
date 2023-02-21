@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ala Baccari</h1>
 <h3 align="center">Software Engineering Student</h3>
 
+🌱 I’m currently learning Software Development
+
+👨‍💻 All of my projects are available at https://github.com/karygauss03?tab=repositories
+
+📫 How to reach me karim.omrane@supcom.tn
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=10ala10&label=Profile%20views&color=0e75b6&style=flat" alt="10ala10" /> </p>
 
 <h3 align="left">Connect with me:</h3>
