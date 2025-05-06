@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ala Baccari</h1>
-<h3 align="center">A Software Engineering</h3>
+<h3 align="center">A Software Engineer</h3>
 
 👨‍💻 All of my projects are available at https://github.com/10Ala10?tab=repositories
 
