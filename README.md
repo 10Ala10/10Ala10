@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ala Baccari</h1>
-<h3 align="center">A Software Engineer</h3>
+<h3 align="center">A Full-Stack Developer & AI Engineer </h3>
 
 👨‍💻 All of my projects are available at https://github.com/10Ala10?tab=repositories
 
-📫 How to reach me ala.baccari@supcom.tn
+📫 How to reach me ala.baccarri@gmail.com
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=10ala10&label=Profile%20views&color=0e75b6&style=flat" alt="10ala10" /> </p>
 
