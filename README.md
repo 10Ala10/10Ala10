@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ala Baccari</h1>
 <h3 align="center">A Full-Stack Developer & AI Engineer</h3>
 
-I'm a passionate Full-Stack Developer and AI Engineer with over 2 years of professional experience who thrives at the intersection of traditional software development and cutting-edge AI innovation.
+I'm a passionate Full-Stack Developer and AI Engineer with over 3 years of professional experience who thrives at the intersection of traditional software development and cutting-edge AI innovation.
 
 Currently, I'm building and running <a href="https://www.lazybrains.pro/" target="_blank" rel="noopener noreferrer">LazyBrains</a>, an AI-powered study platform that generates personalized flashcards and quizzes for students using advanced AI technology.
 
